@@ -1,22 +1,10 @@
-<p id="notice"><%= notice %></p>
-
+<!DOCTYPE = html>
 <head>
   <dev>...Еще я хотел быть лучшим в мире игроком в го...</dev>
+</head>
+<body>
   <img src = "/media/myapps/demo/public/bill.jpg" alt = "Loading error" /img>
   <p>(c) Билл Гейтс</p>
   <p>Созданно Тимофеем Арсёновым в 2016 году.</p>
-</head>
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  
-</table>
-
-<br>
-
-
+</body>
+ 
