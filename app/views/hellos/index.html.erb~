@@ -4,7 +4,7 @@
     <dev>...Еще я хотел быть лучшим в мире игроком в го...</  dev>
   </head>
   <body>
-    <p><img src="bill.jpg" alt="Loading error" /img></p>
+    <p><img src="/bill.jpg" alt="Loading error"></p>
     <p>(c) Билл Гейтс</p>
     <p>Созданно Тимофеем Арсёновым в 2016 году.</p>
   </body>
